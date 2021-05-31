@@ -1,0 +1,4 @@
+Estamos realizando un examen
+Hora del examen: 7:10 am
+Fecha del examen: 31/05/2021
+Tipo: Ordinario
